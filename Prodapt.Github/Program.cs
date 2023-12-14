@@ -20,6 +20,9 @@ namespace Prodapt.Github
 
             Console.WriteLine(today.ToLongTimeString()); // 10:03:41 AM
             Console.WriteLine(DateTime.Now.ToLongTimeString());
+
+
+            Console.WriteLine("new");
         }
     }
 }
