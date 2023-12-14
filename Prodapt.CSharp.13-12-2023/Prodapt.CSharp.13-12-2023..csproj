@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>Prodapt.CSharp._13_12_2023_</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Prodapt.CSharp.ToCreate.dll_File">
+      <HintPath>..\..\Prodapt.CSharp.ToCreate.dll_File\Prodapt.CSharp.ToCreate.dll_File\bin\Debug\net8.0\Prodapt.CSharp.ToCreate.dll_File.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
